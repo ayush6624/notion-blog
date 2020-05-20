@@ -1,9 +1,13 @@
 import ExtLink from './ext-link'
 
-export default () => (
+const Footer = () => (
   <>
     <footer>
-      <ExtLink href="https://github.com/ijjk/notion-blog">Source code</ExtLink>
+      <span>
+        <ExtLink href="https://ayushgoyal.dev">Visit My Webite</ExtLink>
+      </span>
     </footer>
   </>
 )
+
+export default Footer
