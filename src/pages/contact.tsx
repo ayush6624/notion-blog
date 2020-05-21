@@ -37,7 +37,7 @@ export default () => (
     <Header titlePre="Contact" />
     <div className={sharedStyles.layout}>
       <div className={contactStyles.avatar}>
-        <img src="/avatar.png" alt="avatar with letters JJ" height={60} />
+        <img src="/avatar.png" alt="photo" />
       </div>
 
       <h1 style={{ marginTop: 0 }}>Contact</h1>
