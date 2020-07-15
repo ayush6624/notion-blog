@@ -25,6 +25,7 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
+          <img src="https://a.ayushgoyal.dev/hello.png?id=blog"></img>
         </body>
       </Html>
     )

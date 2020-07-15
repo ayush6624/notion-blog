@@ -27,7 +27,6 @@ export default () => (
           <ExtLink href="https://nextjs.org">Next.js</ExtLink> blog with a{' '}
           <ExtLink href="https://notion.so">Notion</ExtLink> powered blog that
           is deployed with <ExtLink href="https://vercel.com">Vercel</ExtLink>.
-          Visit my <Link href="/blog">blog</Link> from here.
         </p>
         <p>
           Credits:{' '}
